@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @RAJEEV-01-MAX
+- 👋 Hi, I’m @RAJEEV
 - 👀 I’m interested in-> electronics and programming
-- 🌱 I’m currently learning ->arduino programming
-- 💞️ I’m looking to collaborate on projects related to arduino
-- 📫 How to reach me ->rajeevaswal8979~@gmail.com
-- 😄 Pronouns: ...HAAAHA
+- 🌱 I’m currently learning ->arduino programming, html
+- 💞️ I’m looking to collaborate on projects related to arduino programming and raspberry-pi 
+- 📫 How to reach me ->rajeevaswal310805~@gmail.com
 - ⚡ Fun fact: ... electronics student at DU 
 
 <!---
